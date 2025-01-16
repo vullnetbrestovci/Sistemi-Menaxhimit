@@ -27,7 +27,7 @@ Ky projekt është zhvilluar për të menaxhuar të dhënat e studentëve dhe pr
 ## Kërkesat:
 - .NET Framework.
 
-**Autorët:**
+**Autorët:
 Adriatik Raka
 Florian Rashiti
-Vullnet Brestovci
+Vullnet Brestovci**
