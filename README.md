@@ -28,6 +28,6 @@ Ky projekt është zhvilluar për të menaxhuar të dhënat e studentëve dhe pr
 - .NET Framework.
 
 **Autorët:
-Adriatik Raka
-Florian Rashiti
+Adriatik Raka,
+Florian Rashiti,
 Vullnet Brestovci**
